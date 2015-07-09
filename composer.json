@@ -1,0 +1,23 @@
+{
+    "name": "benjamin-chen/data-chain",
+    "description": "structure data",
+    "require": {
+        "php": ">= 5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "BenjaminChen\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "benjamin",
+            "email": "benjaminchen.c@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
