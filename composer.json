@@ -1,5 +1,5 @@
 {
-    "name": "benjamin-chen/data-chain",
+    "name": "rde/data-chain",
     "description": "structure data",
     "require": {
         "php": ">= 5.3"
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BenjaminChen\\": "src/"
+            "Rde\\": "src/"
         }
     },
     "license": "MIT",
